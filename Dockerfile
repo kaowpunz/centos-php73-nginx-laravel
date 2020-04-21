@@ -1,0 +1,1 @@
+FROM pongsak/centos-php73-nginx:latest
